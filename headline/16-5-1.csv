@@ -1,10 +1,19 @@
-Year,Value
-2010,
-2011,
-2012,
-2013,
-2014,
-2015,4.7
-2016,
-2017,3.7
-2018,
+Year,Units,Value
+2010,Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%),
+2011,Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%),
+2012,Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%),
+2013,Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%),
+2014,Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%),
+2015,Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%),4.7
+2016,Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%),
+2017,Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%),3.7
+2018,Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%),
+2010,Private persons (donors) suspected in the context of corruption offences (Number),354.0
+2011,Private persons (donors) suspected in the context of corruption offences (Number),295.0
+2012,Private persons (donors) suspected in the context of corruption offences (Number),163.0
+2013,Private persons (donors) suspected in the context of corruption offences (Number),222.0
+2014,Private persons (donors) suspected in the context of corruption offences (Number),121.0
+2015,Private persons (donors) suspected in the context of corruption offences (Number),148.0
+2016,Private persons (donors) suspected in the context of corruption offences (Number),
+2017,Private persons (donors) suspected in the context of corruption offences (Number),
+2018,Private persons (donors) suspected in the context of corruption offences (Number),
