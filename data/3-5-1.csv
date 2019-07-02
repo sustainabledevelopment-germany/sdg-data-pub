@@ -1,19 +1,19 @@
-Year,Units,Value
-2010,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),220.0
-2011,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),220.0
-2012,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),223.0
-2013,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),226.0
-2014,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),226.0
-2015,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),219.0
-2016,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),215.0
-2017,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),210.0
-2018,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),
-2010,Inpatient treatment of alcohol dependence (1 000),155.0
-2011,Inpatient treatment of alcohol dependence (1 000),157.0
-2012,Inpatient treatment of alcohol dependence (1 000),161.0
-2013,Inpatient treatment of alcohol dependence (1 000),161.0
-2014,Inpatient treatment of alcohol dependence (1 000),160.0
-2015,Inpatient treatment of alcohol dependence (1 000),153.0
-2016,Inpatient treatment of alcohol dependence (1 000),150.0
-2017,Inpatient treatment of alcohol dependence (1 000),147.0
-2018,Inpatient treatment of alcohol dependence (1 000),
+Year,Units,Type of dependence,Value
+2010,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),,220.0
+2011,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),,220.0
+2012,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),,223.0
+2013,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),,226.0
+2014,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),,226.0
+2015,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),,219.0
+2016,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),,215.0
+2017,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),,210.0
+2018,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),,
+2010,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),Inpatient treatment of alcohol dependence,155.0
+2011,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),Inpatient treatment of alcohol dependence,157.0
+2012,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),Inpatient treatment of alcohol dependence,161.0
+2013,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),Inpatient treatment of alcohol dependence,161.0
+2014,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),Inpatient treatment of alcohol dependence,160.0
+2015,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),Inpatient treatment of alcohol dependence,153.0
+2016,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),Inpatient treatment of alcohol dependence,150.0
+2017,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),Inpatient treatment of alcohol dependence,147.0
+2018,Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000),Inpatient treatment of alcohol dependence,
