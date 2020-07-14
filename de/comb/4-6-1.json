@@ -1,1 +1,0 @@
-{"data":{"Year":[2012,2012,2012,2012],"F\u00e4higkeit":["a) Lesen","a) Lesen","b) Rechnen","b) Rechnen"],"Leistungsniveau":["Mindestniveau Stufe I","Mindestniveau Stufe II","Mindestniveau Stufe I","Mindestniveau Stufe II"],"Value":[96.7,82.5,95.5,81.6]},"edges":{"From":["F\u00e4higkeit"],"To":["Leistungsniveau"]}}
