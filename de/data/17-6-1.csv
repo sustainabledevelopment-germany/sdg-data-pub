@@ -1,0 +1,55 @@
+Year,Geschwindigkeit,Value
+2010,,32.0
+2011,,33.94
+2012,,34.71
+2013,,35.48
+2014,,36.45
+2015,,37.36
+2016,,38.78
+2017,,40.1
+2018,,41.2
+2010,a) Über 144 kbit/s bis unter 2 Mbit/s,4.1
+2011,a) Über 144 kbit/s bis unter 2 Mbit/s,4.08
+2012,a) Über 144 kbit/s bis unter 2 Mbit/s,2.56
+2013,a) Über 144 kbit/s bis unter 2 Mbit/s,1.94
+2014,a) Über 144 kbit/s bis unter 2 Mbit/s,1.6
+2015,a) Über 144 kbit/s bis unter 2 Mbit/s,1.22
+2016,a) Über 144 kbit/s bis unter 2 Mbit/s,0.85
+2017,a) Über 144 kbit/s bis unter 2 Mbit/s,0.36
+2018,a) Über 144 kbit/s bis unter 2 Mbit/s,0.36
+2010,b) 2 Mbit/s bis unter 10 Mbit/s,18.15
+2011,b) 2 Mbit/s bis unter 10 Mbit/s,19.25
+2012,b) 2 Mbit/s bis unter 10 Mbit/s,18.5
+2013,b) 2 Mbit/s bis unter 10 Mbit/s,13.92
+2014,b) 2 Mbit/s bis unter 10 Mbit/s,14.29
+2015,b) 2 Mbit/s bis unter 10 Mbit/s,9.61
+2016,b) 2 Mbit/s bis unter 10 Mbit/s,7.27
+2017,b) 2 Mbit/s bis unter 10 Mbit/s,6.04
+2018,b) 2 Mbit/s bis unter 10 Mbit/s,4.58
+2010,c) 10 Mbit/s bis unter 30 Mbit/s,8.32
+2011,c) 10 Mbit/s bis unter 30 Mbit/s,7.82
+2012,c) 10 Mbit/s bis unter 30 Mbit/s,9.49
+2013,c) 10 Mbit/s bis unter 30 Mbit/s,14.05
+2014,c) 10 Mbit/s bis unter 30 Mbit/s,12.81
+2015,c) 10 Mbit/s bis unter 30 Mbit/s,16.06
+2016,c) 10 Mbit/s bis unter 30 Mbit/s,16.6
+2017,c) 10 Mbit/s bis unter 30 Mbit/s,15.58
+2018,c) 10 Mbit/s bis unter 30 Mbit/s,13.49
+2010,d) 30 Mbit/s bis unter 100 Mbit/s,1.38
+2011,d) 30 Mbit/s bis unter 100 Mbit/s,2.66
+2012,d) 30 Mbit/s bis unter 100 Mbit/s,3.76
+2013,d) 30 Mbit/s bis unter 100 Mbit/s,4.66
+2014,d) 30 Mbit/s bis unter 100 Mbit/s,5.91
+2015,d) 30 Mbit/s bis unter 100 Mbit/s,7.67
+2016,d) 30 Mbit/s bis unter 100 Mbit/s,9.69
+2017,d) 30 Mbit/s bis unter 100 Mbit/s,12.2
+2018,d) 30 Mbit/s bis unter 100 Mbit/s,14.57
+2010,e) 100 Mbit/s und mehr,0.05
+2011,e) 100 Mbit/s und mehr,0.12
+2012,e) 100 Mbit/s und mehr,0.4
+2013,e) 100 Mbit/s und mehr,0.92
+2014,e) 100 Mbit/s und mehr,1.85
+2015,e) 100 Mbit/s und mehr,2.8
+2016,e) 100 Mbit/s und mehr,4.36
+2017,e) 100 Mbit/s und mehr,5.92
+2018,e) 100 Mbit/s und mehr,8.19

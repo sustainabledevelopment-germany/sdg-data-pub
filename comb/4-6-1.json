@@ -1,1 +1,0 @@
-{"data":{"Year":[2012,2012,2012,2012],"skill":["a) literacy skills","a) literacy skills","b) numeracy skills","b) numeracy skills"],"level of proficiency":["minimum requirement level i","minimum requirement level ii","minimum requirement level i","minimum requirement level ii"],"Value":[96.7,82.5,95.5,81.6]},"edges":{"From":["skill"],"To":["level of proficiency"]}}
