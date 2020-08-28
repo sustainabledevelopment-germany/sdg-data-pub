@@ -1,14 +1,5 @@
 Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2014,EUR/h,Average hourly earnings of employees,,,,17.78
-2010,Percentage (%),Gender Pay Gap,,,,22.0
-2011,Percentage (%),Gender Pay Gap,,,,22.0
-2012,Percentage (%),Gender Pay Gap,,,,23.0
-2013,Percentage (%),Gender Pay Gap,,,,22.0
-2014,Percentage (%),Gender Pay Gap,,,,22.0
-2015,Percentage (%),Gender Pay Gap,,,,22.0
-2016,Percentage (%),Gender Pay Gap,,,,21.0
-2017,Percentage (%),Gender Pay Gap,,,,21.0
-2018,Percentage (%),Gender Pay Gap,,,,21.0
 2010,EUR/h,Average hourly earnings of employees,Female,,,14.62
 2011,EUR/h,Average hourly earnings of employees,Female,,,14.88
 2012,EUR/h,Average hourly earnings of employees,Female,,,15.18
@@ -27,6 +18,15 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2016,EUR/h,Average hourly earnings of employees,Male,,,20.71
 2017,EUR/h,Average hourly earnings of employees,Male,,,21.0
 2018,EUR/h,Average hourly earnings of employees,Male,,,21.6
+2010,Percentage (%),Gender Pay Gap,,,,22.0
+2011,Percentage (%),Gender Pay Gap,,,,22.0
+2012,Percentage (%),Gender Pay Gap,,,,23.0
+2013,Percentage (%),Gender Pay Gap,,,,22.0
+2014,Percentage (%),Gender Pay Gap,,,,22.0
+2015,Percentage (%),Gender Pay Gap,,,,22.0
+2016,Percentage (%),Gender Pay Gap,,,,21.0
+2017,Percentage (%),Gender Pay Gap,,,,21.0
+2018,Percentage (%),Gender Pay Gap,,,,21.0
 2010,Percentage (%),Gender Pay Gap,,Baden-Wuerttemberg,code08,27.0
 2011,Percentage (%),Gender Pay Gap,,Baden-Wuerttemberg,code08,27.0
 2012,Percentage (%),Gender Pay Gap,,Baden-Wuerttemberg,code08,27.0
@@ -80,17 +80,9 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2012,Percentage (%),Gender Pay Gap,,Hesse,code06,24.0
 2013,Percentage (%),Gender Pay Gap,,Hesse,code06,23.0
 2014,Percentage (%),Gender Pay Gap,,Hesse,code06,24.0
-2015,Percentage (%),Gender Pay Gap,,Hesse,code06,24.0
+2015,Percentage (%),Gender Pay Gap,,Hesse,code06,25.0
 2016,Percentage (%),Gender Pay Gap,,Hesse,code06,23.0
 2017,Percentage (%),Gender Pay Gap,,Hesse,code06,24.0
-2010,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,22.0
-2011,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,22.0
-2012,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,21.0
-2013,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,20.0
-2014,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,22.0
-2015,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,21.0
-2016,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,20.0
-2017,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,20.0
 2010,Percentage (%),Gender Pay Gap,,Mecklenburg Western Pomerania,code13,4.0
 2011,Percentage (%),Gender Pay Gap,,Mecklenburg Western Pomerania,code13,6.0
 2012,Percentage (%),Gender Pay Gap,,Mecklenburg Western Pomerania,code13,7.0
@@ -99,6 +91,14 @@ Year,Units,Time series,Sex,Federal state,GeoCode,Value
 2015,Percentage (%),Gender Pay Gap,,Mecklenburg Western Pomerania,code13,7.0
 2016,Percentage (%),Gender Pay Gap,,Mecklenburg Western Pomerania,code13,6.0
 2017,Percentage (%),Gender Pay Gap,,Mecklenburg Western Pomerania,code13,5.0
+2010,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,22.0
+2011,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,22.0
+2012,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,21.0
+2013,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,20.0
+2014,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,22.0
+2015,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,21.0
+2016,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,20.0
+2017,Percentage (%),Gender Pay Gap,,Lower Saxony,code03,20.0
 2010,Percentage (%),Gender Pay Gap,,North Rhine-Westphalia,code05,23.0
 2011,Percentage (%),Gender Pay Gap,,North Rhine-Westphalia,code05,23.0
 2012,Percentage (%),Gender Pay Gap,,North Rhine-Westphalia,code05,24.0

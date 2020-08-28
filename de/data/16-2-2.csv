@@ -1,4 +1,4 @@
-Year,Units,Zeitreihe,Geschlecht (alle Altersklassen),Altersklasse (männlich und weiblich),Value
+Year,Units,Zeitreihe,Geschlecht,Altersklasse,Value
 2010,Je 100 000 Einwohner,Opfer von Menschenhandel,,,0.81
 2011,Je 100 000 Einwohner,Opfer von Menschenhandel,,,0.84
 2012,Je 100 000 Einwohner,Opfer von Menschenhandel,,,0.78
@@ -39,6 +39,16 @@ Year,Units,Zeitreihe,Geschlecht (alle Altersklassen),Altersklasse (männlich und
 2015,Anzahl,Ausbeutung der Arbeitskraft,,,54.0
 2016,Anzahl,Ausbeutung der Arbeitskraft,,,48.0
 2017,Anzahl,Ausbeutung der Arbeitskraft,,,180.0
+2010,Anzahl,Ausbeutung der Arbeitskraft,Weiblich,,10.0
+2011,Anzahl,Ausbeutung der Arbeitskraft,Weiblich,,24.0
+2015,Anzahl,Ausbeutung der Arbeitskraft,Weiblich,,10.0
+2016,Anzahl,Ausbeutung der Arbeitskraft,Weiblich,,14.0
+2017,Anzahl,Ausbeutung der Arbeitskraft,Weiblich,,25.0
+2010,Anzahl,Ausbeutung der Arbeitskraft,Männlich,,31.0
+2011,Anzahl,Ausbeutung der Arbeitskraft,Männlich,,8.0
+2015,Anzahl,Ausbeutung der Arbeitskraft,Männlich,,44.0
+2016,Anzahl,Ausbeutung der Arbeitskraft,Männlich,,34.0
+2017,Anzahl,Ausbeutung der Arbeitskraft,Männlich,,155.0
 2010,Anzahl,Sexuelle Ausbeutung,,,610.0
 2011,Anzahl,Sexuelle Ausbeutung,,,640.0
 2012,Anzahl,Sexuelle Ausbeutung,,,612.0
@@ -111,13 +121,3 @@ Year,Units,Zeitreihe,Geschlecht (alle Altersklassen),Altersklasse (männlich und
 2015,Anzahl,Sexuelle Ausbeutung,,Unbekanntes Alter,25.0
 2016,Anzahl,Sexuelle Ausbeutung,,Unbekanntes Alter,23.0
 2017,Anzahl,Sexuelle Ausbeutung,,Unbekanntes Alter,11.0
-2010,Anzahl,Ausbeutung der Arbeitskraft,Weiblich,,10.0
-2011,Anzahl,Ausbeutung der Arbeitskraft,Weiblich,,24.0
-2015,Anzahl,Ausbeutung der Arbeitskraft,Weiblich,,10.0
-2016,Anzahl,Ausbeutung der Arbeitskraft,Weiblich,,14.0
-2017,Anzahl,Ausbeutung der Arbeitskraft,Weiblich,,25.0
-2010,Anzahl,Ausbeutung der Arbeitskraft,Männlich,,31.0
-2011,Anzahl,Ausbeutung der Arbeitskraft,Männlich,,8.0
-2015,Anzahl,Ausbeutung der Arbeitskraft,Männlich,,44.0
-2016,Anzahl,Ausbeutung der Arbeitskraft,Männlich,,34.0
-2017,Anzahl,Ausbeutung der Arbeitskraft,Männlich,,155.0

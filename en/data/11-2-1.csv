@@ -1,5 +1,6 @@
-Year,Time series,"Sex (all age groups, with and without disabilities)","Age (male and female, with and without disabilities)","Disability (all age groups, male and female)",Value
+Year,Time series,Sex,Age group,Disability status,Value
 2016,Population that has convenient access to public transport (within 500 meters),,,,78.95
+2017,Population that has convenient access to public transport (within 500 meters),,,,
 2018,Population that has convenient access to public transport (within 500 meters),,,,79.9
 2010,Population that has convenient access to public transport (within 10 minutes walking distance),,,,94.3
 2011,Population that has convenient access to public transport (within 10 minutes walking distance),,,,94.0

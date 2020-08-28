@@ -6,6 +6,15 @@ Year,Beruf,Value
 2016,,376.83
 2017,,383.01
 2018,,388.24
+2010,Ärzte,37.19
+2011,Ärzte,38.72
+2012,Ärzte,39.37
+2013,Ärzte,40.24
+2014,Ärzte,41.01
+2015,Ärzte,41.13
+2016,Ärzte,41.78
+2017,Ärzte,42.42
+2018,Ärzte,43.05
 2010,Zahnärzte,8.07
 2011,Zahnärzte,8.34
 2012,Zahnärzte,8.44
@@ -16,7 +25,7 @@ Year,Beruf,Value
 2017,Zahnärzte,8.55
 2018,Zahnärzte,8.56
 2010,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,117.92
-2011,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,121.348
+2011,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,121.38
 2012,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,122.2
 2013,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,125.92
 2014,Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe,127.96
@@ -33,12 +42,3 @@ Year,Beruf,Value
 2016,Apotheker,6.3
 2017,Apotheker,6.46
 2018,Apotheker,6.56
-2010,Ärzte,37.19
-2011,Ärzte,38.72
-2012,Ärzte,39.37
-2013,Ärzte,40.24
-2014,Ärzte,41.01
-2015,Ärzte,41.13
-2016,Ärzte,41.78
-2017,Ärzte,42.42
-2018,Ärzte,43.05

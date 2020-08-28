@@ -1,14 +1,5 @@
 Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2014,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,,,,17.78
-2010,Prozent (%),Verdienstabstand,,,,22.0
-2011,Prozent (%),Verdienstabstand,,,,22.0
-2012,Prozent (%),Verdienstabstand,,,,23.0
-2013,Prozent (%),Verdienstabstand,,,,22.0
-2014,Prozent (%),Verdienstabstand,,,,22.0
-2015,Prozent (%),Verdienstabstand,,,,22.0
-2016,Prozent (%),Verdienstabstand,,,,21.0
-2017,Prozent (%),Verdienstabstand,,,,21.0
-2018,Prozent (%),Verdienstabstand,,,,21.0
 2010,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,14.62
 2011,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,14.88
 2012,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Weiblich,,,15.18
@@ -27,6 +18,15 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2016,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,20.71
 2017,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,21.0
 2018,EUR/h,Durchschnittlicher Stundenlohn Beschäftigter,Männlich,,,21.6
+2010,Prozent (%),Verdienstabstand,,,,22.0
+2011,Prozent (%),Verdienstabstand,,,,22.0
+2012,Prozent (%),Verdienstabstand,,,,23.0
+2013,Prozent (%),Verdienstabstand,,,,22.0
+2014,Prozent (%),Verdienstabstand,,,,22.0
+2015,Prozent (%),Verdienstabstand,,,,22.0
+2016,Prozent (%),Verdienstabstand,,,,21.0
+2017,Prozent (%),Verdienstabstand,,,,21.0
+2018,Prozent (%),Verdienstabstand,,,,21.0
 2010,Prozent (%),Verdienstabstand,,Baden-Württemberg,code08,27.0
 2011,Prozent (%),Verdienstabstand,,Baden-Württemberg,code08,27.0
 2012,Prozent (%),Verdienstabstand,,Baden-Württemberg,code08,27.0
@@ -80,17 +80,9 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2012,Prozent (%),Verdienstabstand,,Hessen,code06,24.0
 2013,Prozent (%),Verdienstabstand,,Hessen,code06,23.0
 2014,Prozent (%),Verdienstabstand,,Hessen,code06,24.0
-2015,Prozent (%),Verdienstabstand,,Hessen,code06,24.0
+2015,Prozent (%),Verdienstabstand,,Hessen,code06,25.0
 2016,Prozent (%),Verdienstabstand,,Hessen,code06,23.0
 2017,Prozent (%),Verdienstabstand,,Hessen,code06,24.0
-2010,Prozent (%),Verdienstabstand,,Niedersachsen,code03,22.0
-2011,Prozent (%),Verdienstabstand,,Niedersachsen,code03,22.0
-2012,Prozent (%),Verdienstabstand,,Niedersachsen,code03,21.0
-2013,Prozent (%),Verdienstabstand,,Niedersachsen,code03,20.0
-2014,Prozent (%),Verdienstabstand,,Niedersachsen,code03,22.0
-2015,Prozent (%),Verdienstabstand,,Niedersachsen,code03,21.0
-2016,Prozent (%),Verdienstabstand,,Niedersachsen,code03,20.0
-2017,Prozent (%),Verdienstabstand,,Niedersachsen,code03,20.0
 2010,Prozent (%),Verdienstabstand,,Mecklenburg-Vorpommern,code13,4.0
 2011,Prozent (%),Verdienstabstand,,Mecklenburg-Vorpommern,code13,6.0
 2012,Prozent (%),Verdienstabstand,,Mecklenburg-Vorpommern,code13,7.0
@@ -99,6 +91,14 @@ Year,Units,Zeitreihe,Geschlecht,Bundesland,GeoCode,Value
 2015,Prozent (%),Verdienstabstand,,Mecklenburg-Vorpommern,code13,7.0
 2016,Prozent (%),Verdienstabstand,,Mecklenburg-Vorpommern,code13,6.0
 2017,Prozent (%),Verdienstabstand,,Mecklenburg-Vorpommern,code13,5.0
+2010,Prozent (%),Verdienstabstand,,Niedersachsen,code03,22.0
+2011,Prozent (%),Verdienstabstand,,Niedersachsen,code03,22.0
+2012,Prozent (%),Verdienstabstand,,Niedersachsen,code03,21.0
+2013,Prozent (%),Verdienstabstand,,Niedersachsen,code03,20.0
+2014,Prozent (%),Verdienstabstand,,Niedersachsen,code03,22.0
+2015,Prozent (%),Verdienstabstand,,Niedersachsen,code03,21.0
+2016,Prozent (%),Verdienstabstand,,Niedersachsen,code03,20.0
+2017,Prozent (%),Verdienstabstand,,Niedersachsen,code03,20.0
 2010,Prozent (%),Verdienstabstand,,Nordrhein-Westfalen,code05,23.0
 2011,Prozent (%),Verdienstabstand,,Nordrhein-Westfalen,code05,23.0
 2012,Prozent (%),Verdienstabstand,,Nordrhein-Westfalen,code05,24.0

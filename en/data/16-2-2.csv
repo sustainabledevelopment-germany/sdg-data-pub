@@ -1,4 +1,4 @@
-Year,Units,Time series,Sex (all age groups),Age group (male and female),Value
+Year,Units,Time series,Sex,Age group,Value
 2010,Per 100 000 inhabitants,Victims of human trafficking,,,0.81
 2011,Per 100 000 inhabitants,Victims of human trafficking,,,0.84
 2012,Per 100 000 inhabitants,Victims of human trafficking,,,0.78
@@ -39,6 +39,16 @@ Year,Units,Time series,Sex (all age groups),Age group (male and female),Value
 2015,Number,Exploitation of labour,,,54.0
 2016,Number,Exploitation of labour,,,48.0
 2017,Number,Exploitation of labour,,,180.0
+2010,Number,Exploitation of labour,Female,,10.0
+2011,Number,Exploitation of labour,Female,,24.0
+2015,Number,Exploitation of labour,Female,,10.0
+2016,Number,Exploitation of labour,Female,,14.0
+2017,Number,Exploitation of labour,Female,,25.0
+2010,Number,Exploitation of labour,Male,,31.0
+2011,Number,Exploitation of labour,Male,,8.0
+2015,Number,Exploitation of labour,Male,,44.0
+2016,Number,Exploitation of labour,Male,,34.0
+2017,Number,Exploitation of labour,Male,,155.0
 2010,Number,Sexual exploitation,,,610.0
 2011,Number,Sexual exploitation,,,640.0
 2012,Number,Sexual exploitation,,,612.0
@@ -111,13 +121,3 @@ Year,Units,Time series,Sex (all age groups),Age group (male and female),Value
 2015,Number,Sexual exploitation,,Unknown Age,25.0
 2016,Number,Sexual exploitation,,Unknown Age,23.0
 2017,Number,Sexual exploitation,,Unknown Age,11.0
-2010,Number,Exploitation of labour,Female,,10.0
-2011,Number,Exploitation of labour,Female,,24.0
-2015,Number,Exploitation of labour,Female,,10.0
-2016,Number,Exploitation of labour,Female,,14.0
-2017,Number,Exploitation of labour,Female,,25.0
-2010,Number,Exploitation of labour,Male,,31.0
-2011,Number,Exploitation of labour,Male,,8.0
-2015,Number,Exploitation of labour,Male,,44.0
-2016,Number,Exploitation of labour,Male,,34.0
-2017,Number,Exploitation of labour,Male,,155.0

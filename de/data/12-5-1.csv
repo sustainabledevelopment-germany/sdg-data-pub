@@ -1,12 +1,4 @@
 Year,Units,Abfallart,Value
-2010,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,30774.0
-2011,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,31633.0
-2012,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,32460.0
-2013,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,31629.0
-2014,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,33544.0
-2015,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,34453.0
-2016,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,34958.0
-2017,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,34783.0
 2010,Recyclingquote (%),Siedlungsabfälle insgesamt,62.5
 2011,Recyclingquote (%),Siedlungsabfälle insgesamt,63.0
 2012,Recyclingquote (%),Siedlungsabfälle insgesamt,65.2
@@ -15,14 +7,14 @@ Year,Units,Abfallart,Value
 2015,Recyclingquote (%),Siedlungsabfälle insgesamt,66.7
 2016,Recyclingquote (%),Siedlungsabfälle insgesamt,67.1
 2017,Recyclingquote (%),Siedlungsabfälle insgesamt,67.2
-2010,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,257350.0
-2011,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,267105.0
-2012,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,265363.0
-2013,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,265552.0
-2014,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,276265.0
-2015,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,274619.0
-2016,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,287631.0
-2017,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,284847.0
+2010,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,30774.0
+2011,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,31633.0
+2012,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,32460.0
+2013,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,31629.0
+2014,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,33544.0
+2015,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,34453.0
+2016,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,34958.0
+2017,Stoffliche Verwertung (1 000t),Siedlungsabfälle insgesamt,34783.0
 2010,Recyclingquote (%),Abfallaufkommen insgesamt,69.0
 2011,Recyclingquote (%),Abfallaufkommen insgesamt,69.1
 2012,Recyclingquote (%),Abfallaufkommen insgesamt,69.7
@@ -31,3 +23,11 @@ Year,Units,Abfallart,Value
 2015,Recyclingquote (%),Abfallaufkommen insgesamt,68.3
 2016,Recyclingquote (%),Abfallaufkommen insgesamt,69.9
 2017,Recyclingquote (%),Abfallaufkommen insgesamt,69.1
+2010,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,257350.0
+2011,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,267105.0
+2012,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,265363.0
+2013,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,265552.0
+2014,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,276265.0
+2015,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,274619.0
+2016,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,287631.0
+2017,Stoffliche Verwertung (1 000t),Abfallaufkommen insgesamt,284847.0

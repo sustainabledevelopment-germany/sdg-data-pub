@@ -4,6 +4,11 @@ Year,Time series,Type of account,Value
 2016,Accounts at payment service providers,,150897
 2017,Accounts at payment service providers,,151388
 2018,Accounts at payment service providers,,150997
+2014,Accounts at payment service providers,Online accounts,78631
+2015,Accounts at payment service providers,Online accounts,81488
+2016,Accounts at payment service providers,Online accounts,85985
+2017,Accounts at payment service providers,Online accounts,89351
+2018,Accounts at payment service providers,Online accounts,91708
 2010,Accounts at payment service providers,Current accounts,94982
 2011,Accounts at payment service providers,Current accounts,95684
 2012,Accounts at payment service providers,Current accounts,96858
@@ -13,8 +18,3 @@ Year,Time series,Type of account,Value
 2016,Accounts at payment service providers,Current accounts,103844
 2017,Accounts at payment service providers,Current accounts,103876
 2018,Accounts at payment service providers,Current accounts,105031
-2014,Accounts at payment service providers,Online accounts,78631
-2015,Accounts at payment service providers,Online accounts,81488
-2016,Accounts at payment service providers,Online accounts,85985
-2017,Accounts at payment service providers,Online accounts,89351
-2018,Accounts at payment service providers,Online accounts,91708

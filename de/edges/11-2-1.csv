@@ -1,4 +1,4 @@
 From,To
-Zeitreihe,"Geschlecht (alle Altersklassen, mit und ohne Behinderung)"
-Zeitreihe,"Altersklasse (männlich und weiblich, mit und ohne Behinderung)"
-Zeitreihe,"Behinderungsstatus (alle Altersklassen, männlich und weiblich)"
+Zeitreihe,Geschlecht
+Zeitreihe,Altersklasse
+Zeitreihe,Behinderungsstatus
