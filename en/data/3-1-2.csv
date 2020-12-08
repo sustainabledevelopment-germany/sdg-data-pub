@@ -1,20 +1,10 @@
 Year,Time series,Value
-2010,Live births in hospitals,656390
-2011,Live births in hospitals,642197
-2012,Live births in hospitals,653215
-2013,Live births in hospitals,661138
-2014,Live births in hospitals,692794
-2015,Live births in hospitals,716539
-2016,Live births in hospitals,761777
-2017,Live births in hospitals,762343
-2018,Live births in hospitals,757878
-2010,Total live births in Germany,677947
-2011,Total live births in Germany,662685
-2012,Total live births in Germany,673544
-2013,Total live births in Germany,682069
-2014,Total live births in Germany,714927
-2015,Total live births in Germany,737575
-2016,Total live births in Germany,792141
-2017,Total live births in Germany,784901
-2018,Total live births in Germany,787523
-2019,Total live births in Germany,778090
+2010,Child deliveries in hospitals,656390
+2011,Child deliveries in hospitals,642197
+2012,Child deliveries in hospitals,653215
+2013,Child deliveries in hospitals,661138
+2014,Child deliveries in hospitals,692794
+2015,Child deliveries in hospitals,716539
+2016,Child deliveries in hospitals,761777
+2017,Child deliveries in hospitals,762343
+2018,Child deliveries in hospitals,757878
