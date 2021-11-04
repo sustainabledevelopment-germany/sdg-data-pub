@@ -12,22 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       }
@@ -35,5 +42,5 @@
   ],
   "profile": "data-package",
   "name": "5-c-1",
-  "title": "Anteil der Staaten mit Systemen zur transparenten Verfolgung und Veröffentlichung von Mittelzuwendungen für die Geschlechtergleichstellung und die Stärkung der Rolle der Frau"
+  "title": "Anteil der Staaten mit Systemen zur Verfolgung und Veröffentlichung von Mittelzuwendungen für die Geschlechtergleichstellung und Förderung der Selbstbestimmung der Frauen"
 }

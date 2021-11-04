@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million USD, constant prices (2018)",
+                "Million USD, constant prices (2019)",
                 "Million EUR",
                 ""
               ]
@@ -33,6 +33,7 @@
             "constraints": {
               "enum": [
                 "ODA (commitments) for biodiversity",
+                "ODA (disbursements) for biodiversity",
                 "Environmental protection expenditure",
                 ""
               ]
@@ -50,5 +51,5 @@
   ],
   "profile": "data-package",
   "name": "15-a-1",
-  "title": "(a) Öffentliche Entwicklungszusammenarbeit (ODA) für die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt und (b) Einnahmen und Finanzmittel, die über die für die biologische Vielfalt maßgeblichen ökologischen Instrumente generiert wurden"
+  "title": "a) Öffentliche Entwicklungszusammenarbeit (ODA) für die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt und b) Einnahmen und Finanzmittel, die über die für die biologische Vielfalt maßgeblichen Wirtschaftsinstrumente generiert wurden"
 }

@@ -28,19 +28,6 @@
             "title": "Units"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                "Unknown",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "age",
             "type": "string",
             "constraints": {
@@ -55,6 +42,19 @@
               ]
             },
             "title": "Age group"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                "Unknown",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "form of exploitation",
@@ -79,5 +79,5 @@
   ],
   "profile": "data-package",
   "name": "16-2-2",
-  "title": "Anzahl der Opfer von Menschenhandel je 100&nbsp;000 Einwohner, nach Geschlecht, Alter und Form der Ausbeutung"
+  "title": "Anzahl der Opfer von Menschenhandel je 100&nbsp;000 Einwohner/ -innen, nach Geschlecht, Alter und Form der Ausbeutung"
 }

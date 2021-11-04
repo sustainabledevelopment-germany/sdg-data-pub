@@ -16,24 +16,13 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millionen USD, konstante Preise (2018)",
-                "Millionen EUR",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Zusagen (ODA) für Biodiversität",
-                "Umweltschutzausgaben",
+                "Auszahlungen (ODA) für Biodiversität",
+                "Bruttoentwicklungsausgaben (ODA) für den Forstsektor",
                 ""
               ]
             },
@@ -50,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "15-b-1",
-  "title": "(a) Öffentliche Entwicklungszusammenarbeit (ODA) für die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt und (b) Einnahmen und Finanzmittel, die über die für die biologische Vielfalt maßgeblichen ökologischen Instrumente generiert wurden"
+  "title": "a) Öffentliche Entwicklungszusammenarbeit (ODA) für die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt und b) Einnahmen und Finanzmittel, die über die für die biologische Vielfalt maßgeblichen Wirtschaftsinstrumente generiert wurden"
 }
