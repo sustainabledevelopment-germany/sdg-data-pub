@@ -2,7 +2,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 a) branches of payment service providers (per 100 000 adults),1,1
 a) government expenditure on health (cofog division 7) (%),1,1
 a) hazardous waste generated per capita,1,1
-a) oda (commitments) for biodiversity,1,1
+a) oda (commitments) for biodiversity,2,2
 a) police reporting rate for physical assault (%),1,1
 a) population using safely managed sanitation services (%),1,1
 above-ground biomass stock in forest,1,1
@@ -17,11 +17,12 @@ average hourly earnings of employees,3,1
 b) atms of national payment service providers (per 100 000 adults),1,1
 b) government expenditure on education (cofog division 9) (%),1,1
 b) hazardous waste treated,5,1
-b) oda (disbursements) for biodiversity,1,1
+b) oda (disbursements) for biodiversity,2,2
 b) population with a bathtub or a shower (%),1,1
 birth registration,1,1
 c) environmental protection expenditure,1,1
 c) government expenditure on social protection (cofog division 10) (%),2,2
+c) oda (gross disbursements) to the forestry sector,1,1
 c) police reporting rate for robbery (%),1,1
 capital to assets ratio (%),1,1
 child deliveries in hospitals,1,1
@@ -58,8 +59,8 @@ hours worked by persons employed,1,1
 households and small-sized enterprises connected to the electricity network,1,1
 hpv vaccination rate among 15 years old girls,1,1
 inpatient treatment of neglected tropical diseases,8,1
-key biodiversity areas (kbas) covered by protected areas,1,1
 key biodiversity areas (kbas) covered by protected areas (%),1,1
+key biodiversity areas (kbas) covered by protected areas,1,1
 labour productivity per hour worked by employee,1,1
 labour productivity per hour worked by persons employed,1,1
 land consumption rate,1,1
@@ -74,6 +75,8 @@ measles vaccination rate at sschool entrance,1,1
 mobile penetration rate,1,1
 "mountain regions, covered by protected areas",1,1
 municipal solid waste regularly collected and treated,1,1
+national biodiversity strategy and action plan (nbsap) targets alignment to aichi biodiversity target 9 set out in the strategic plan for biodiversity 2011-2020,1,1
+national legislation considered relevant to the prevention of introduction of invasive alien species and control,10,1
 net open position in foreign exchange to capital (%),1,1
 non-fatal occupational accidents (per 100 000 employees),3,1
 nonperforming loans net of provisions to capital (%),1,1
@@ -90,6 +93,7 @@ oda (gross disbursements) for poverty reduction,1,1
 oda (gross disbursements) for scholarships,1,1
 oda (gross disbursements) for water and sanitation,1,1
 oda (gross disbursements) to infrastructure,1,1
+"online survey on policy responses, mandate, legal authority, and resourcing to manage the threat of invasive alien species",1,1
 organically farmed agricultural land (data from bmel),1,1
 organically farmed agricultural land (data from destatis),17,1
 overweight among children under the age of 5 years (%),3,1
