@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio of female members in the public service",
+                "Ratio of female members in the judiciary",
+                ""
+              ]
+            },
+            "title": "Time series"
+          },
+          {
             "name": "field of work",
             "type": "string",
             "constraints": {
@@ -41,18 +53,6 @@
               ]
             },
             "title": "Level of court"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportions of positions of women in the public service compared to the national distribution",
-                "Ratio of proportion of women in the judiciary to proportion of women in the total population",
-                ""
-              ]
-            },
-            "title": "Time series"
           },
           {
             "name": "Value",
