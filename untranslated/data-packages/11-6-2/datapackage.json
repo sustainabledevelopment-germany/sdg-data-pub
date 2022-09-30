@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "micrograms per qubic meters",
-                "mn inhabitants",
+                "micrograms per m³",
+                "million inhabitants",
                 ""
               ]
             }
