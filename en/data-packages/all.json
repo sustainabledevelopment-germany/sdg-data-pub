@@ -1642,19 +1642,6 @@
             "title": "Year"
           },
           {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "17 years and younger",
-                "18 to under 65 years",
-                "65 years and older",
-                ""
-              ]
-            },
-            "title": "Age group"
-          },
-          {
             "name": "sex",
             "type": "string",
             "constraints": {
@@ -9323,7 +9310,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio of land consumption rate to population growth rate (year-to-year)",
+                "Ratio of land consumption rate to population growth rate",
                 "Proportion of settlement and transport areas to population",
                 "Land consumption rate",
                 "Population growth rate",
@@ -9331,6 +9318,18 @@
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "presentation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual values",
+                "Moving four-year average",
+                ""
+              ]
+            },
+            "title": "Presentation"
           },
           {
             "name": "Value",
