@@ -121,7 +121,6 @@
                 "x",
                 "|",
                 "r",
-                "…",
                 ".",
                 ""
               ]
@@ -129,10 +128,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -234,7 +232,7 @@
           }
         ]
       },
-      "title": "Gesamte öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Leistungen zur Unterstützung städtischer<br>Infrastruktur oder städtischer Infrastrukturprojekte, nach Sektor"
+      "title": "Gesamte öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Leistungen zur Unterstützung städtischer Infrastruktur oder städtischer Infrastrukturprojekte, nach Sektor"
     },
     {
       "path": "11-3-2/data.csv",
@@ -624,9 +622,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -1104,6 +1103,88 @@
       "title": "Produktionsvolumen je Arbeitseinheit, nach Größenklassen der Land-/ Weide-/ Forstwirtschaftsbetriebe"
     },
     {
+      "path": "8-9-2/data.csv",
+      "name": "8-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "accommodation for visitors: hotels and similar establishments",
+                "accommodation for visitors: other",
+                "food and beverage serving activities",
+                "railway passenger transport",
+                "road passenger transport",
+                "water passenger transport",
+                "air passenger transport",
+                "transport equipment rental",
+                "travel agencies and other reservation service activities",
+                "cultural activities",
+                "sports and recreational activities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<u>time series of the indicator:</u> employed persons",
+                "<u>additional time series:</u> employees",
+                "<u>additional time series:</u> full-time equivalents",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Erwerbstätige in der Tourismuswirtschaft"
+    },
+    {
       "path": "3-3-1/data.csv",
       "name": "3-3-1",
       "profile": "tabular-data-resource",
@@ -1461,8 +1542,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
                 ""
               ]
             }
@@ -1693,6 +1774,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 "p",
                 ""
               ]
@@ -3056,7 +3138,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -3091,7 +3173,7 @@
             "constraints": {
               "enum": [
                 "p",
-                "…",
+                "r",
                 ""
               ]
             }
@@ -4135,15 +4217,17 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 ""
               ]
             }
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -5295,8 +5379,8 @@
             "constraints": {
               "enum": [
                 "…",
-                "r",
                 "p",
+                "r",
                 ""
               ]
             }
@@ -5664,6 +5748,7 @@
               "enum": [
                 ".",
                 "|",
+                "r",
                 "p",
                 ""
               ]
@@ -7344,7 +7429,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -10470,6 +10555,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 "p",
                 ""
               ]
@@ -11330,7 +11416,6 @@
             "constraints": {
               "enum": [
                 "‒",
-                "-",
                 ""
               ]
             }
@@ -12379,9 +12464,10 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -12516,10 +12602,9 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "r",
                 ""
               ]
             }
@@ -13005,8 +13090,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "r",
                 "p",
+                "r",
                 ""
               ]
             }
@@ -13246,9 +13331,10 @@
           },
           {
             "name": "COMMENT_OBS_1",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
                 ""
               ]
             }
@@ -13621,9 +13707,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             }
@@ -13642,6 +13730,18 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "documents issued for the import and export of protected species",
+                "seizures by customs authorities concerning the protection of species",
+                "authorized imports and exports of protected species",
                 ""
               ]
             }
@@ -13670,9 +13770,11 @@
           },
           {
             "name": "COMMENT_OBS_0",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "r",
+                "|",
                 ""
               ]
             }
@@ -13691,6 +13793,18 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "documents issued for the import and export of protected species",
+                "seizures by customs authorities concerning the protection of species",
+                "authorized imports and exports of protected species",
                 ""
               ]
             }
@@ -13738,6 +13852,7 @@
               "enum": [
                 "|",
                 "p",
+                "r",
                 ""
               ]
             }
@@ -14539,6 +14654,7 @@
             "constraints": {
               "enum": [
                 "|",
+                "r",
                 ""
               ]
             }
@@ -15071,28 +15187,6 @@
         ]
       },
       "title": "Katastrophen zugeschriebene a) Schäden an kritischen Infrastrukturen und b) Zahl der Unterbrechungen der Grundversorgung"
-    },
-    {
-      "path": "8-9-2/data.csv",
-      "name": "8-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Erwerbstätige in der Tourismuswirtschaft"
     }
   ]
 }
